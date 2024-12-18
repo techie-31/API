@@ -12,7 +12,7 @@
     "dialog":0,
     "text":"kay pankaj sab thik thak",
 
-    "terminal":0,
+    "terminal":1,
     "prompt":"dir",
 
     "video":0,
