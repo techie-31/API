@@ -15,7 +15,7 @@
     "terminal":0,
     "prompt":"dir",
 
-    "video":0,
+    "video":1,
     "v_url":"https://techie-31.github.io/tool/1.mp4",
 
     "avtar":0,
