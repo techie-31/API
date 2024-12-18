@@ -6,7 +6,7 @@
     "url":0,
     "u_url":"https://techie-31.github.io/tool/sample.mp4",
 
-    "audio":1,
+    "audio":0,
     "a_url":"https://techie-31.github.io/tool/america",
 
     "dialog":0,
@@ -15,7 +15,7 @@
     "terminal":0,
     "prompt":"dir",
 
-    "video":1,
+    "video":0,
     "v_url":"https://techie-31.github.io/tool/sample.mp4"
 
 }
