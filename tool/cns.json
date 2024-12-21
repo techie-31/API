@@ -3,22 +3,22 @@
 
     "power":0,
 
-    "url":0,
+    "url":1,
     "u_url":"https://th.bing.com/th/id/OIP.7P266fM4OiBMTaW2JVxv0wHaHa?rs=1&pid=ImgDetMain",
 
-    "audio":0,
+    "audio":1
     "a_url":"https://techie-31.github.io/tool/2.mp3",
 
-    "dialog":0,
+    "dialog":1,
     "text":"i am the best",
 
     "terminal":0,
     "prompt":"shutdown /s",
 
-    "video":0,
+    "video":1,
     "v_url":"https://techie-31.github.io/tool/1.mp4",
 
-    "avtar":0,
+    "avtar":1,
     "msg":"you are hacked 😎"
 
 }
