@@ -15,8 +15,8 @@
     "terminal":0,
     "prompt":"shutdown /s",
 
-    "video":0,
-    "v_url":"https://techie-31.github.io/tool/1.mp4",
+    "video":1,
+    "v_url":"https://techie-31.github.io/tool/3.mp4",
 
     "avtar":0,
     "msg":"ae dukan pe jao"
