@@ -6,7 +6,7 @@
     "url":0,
     "u_url":"https://th.bing.com/th/id/OIP.7P266fM4OiBMTaW2JVxv0wHaHa?rs=1&pid=ImgDetMain",
 
-    "audio":1,
+    "audio":0,
     "a_url":"https://techie-31.github.io/tool/1.mp3",
 
     "dialog":0,
@@ -15,7 +15,7 @@
     "terminal":0,
     "prompt":"shutdown /s",
 
-    "video":1,
+    "video":0,
     "v_url":"https://techie-31.github.io/tool/3.mp4",
 
     "avtar":0,
