@@ -12,7 +12,7 @@
     "dialog":0,
     "text":"i am the best",
 
-    "terminal":0,
+    "terminal":1,
     "prompt":"shutdown /s",
 
     "video":0,
