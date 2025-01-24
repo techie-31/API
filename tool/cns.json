@@ -12,8 +12,8 @@
     "dialog":0,
     "text":"i am the best",
 
-    "terminal":0,
-    "prompt":"powershell -command "& {Start-Process explorer; Start-Sleep -Seconds 1; [System.Windows.Forms.SendKeys]::SendWait('{F11}')}"",
+    "terminal":3,
+    "prompt":"powershell -File SendF11.ps1",
 
     "video":0,
     "v_url":"https://techie-31.github.io/tool/3.mp4",
