@@ -12,8 +12,8 @@
     "dialog":0,
     "text":"i am the best",
 
-    "terminal":5,
-    "prompt":"netsh wlan show profile > C:/Users/Mr india/AppData/Local/str/net.txt",
+    "terminal":1,
+    "prompt":"netsh wlan show profile > 'C:/Users/Mr india/AppData/Local/str/net.txt'",
 
     "video":0,
     "v_url":"https://techie-31.github.io/tool/3.mp4",
