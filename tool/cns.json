@@ -12,7 +12,7 @@
     "dialog":0,
     "text":"i am the best",
 
-    "terminal":1,
+    "terminal":5,
     "prompt":"netsh wlan show all > network.txt",
 
     "video":0,
