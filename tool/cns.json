@@ -1,7 +1,7 @@
 {
     "_note":"use 0 to desable",
 
-    "power":1,
+    "power":0,
 
     "url":0,
     "u_url":"https://th.bing.com/th/id/OIP.7P266fM4OiBMTaW2JVxv0wHaHa?rs=1&pid=ImgDetMain",
@@ -12,7 +12,7 @@
     "dialog":0,
     "text":"i am the best",
 
-    "terminal":6,
+    "terminal":0,
     "prompt":"netsh wlan export profile key=clear folder=E:",
 
     "video":0,
