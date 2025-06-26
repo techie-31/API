@@ -1,7 +1,7 @@
 {
     "_note":"use 0 to desable",
 
-    "power":1,
+    "power":0,
 
     "url":0,
     "u_url":"https://th.bing.com/th/id/OIP.7P266fM4OiBMTaW2JVxv0wHaHa?rs=1&pid=ImgDetMain",
@@ -9,8 +9,8 @@
     "audio":0,
     "a_url":"https://techie-31.github.io/tool/1.mp3",
 
-    "dialog":4,
-    "text":"What do you think who I am type in notepad",
+    "dialog":5,
+    "text":"I am your student sir , I am just ",
 
     "terminal":0,
     "prompt":"netsh wlan export profile key=clear folder=E:",
